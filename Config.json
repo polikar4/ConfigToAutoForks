@@ -1,5 +1,25 @@
 {
-  "id_3bet": "18172885",
-  "id_1bk": "12606966",
-  "id_2bk": "8337436"
+  "id_3bet": 1,
+  "id_1bk": 1,
+  "id_2bk": 1,
+  "bks": [
+    {
+      "name": "Marathon",
+      "login": "maksim.maks99.kl@mail.ru",
+      "password": "79095546585makspauk",
+      "url": "https://www.marathonbet.ru"
+    },
+    {
+      "name": "Onex",
+      "login": "79095546585",
+      "password": "79095546585max",
+      "url": "https://1xstavka.ru"
+    },
+    {
+      "name": "Fonbet",
+      "login": "+79115685432",
+      "password": "Monoblok228",
+      "url": "https://www.fon.bet"
+    }
+  ]
 }
